@@ -154,6 +154,11 @@ ul li {
     align-items: center;
   }
 
+  figcaption {
+    font-size: 1.25rem;
+    text-align: center;
+  }
+
   figure img {
     max-height: 20rem;
   }
